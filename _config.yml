@@ -1,6 +1,6 @@
 # Site settings
-title:          Hotzzi's World
-description:    "디자이너 윤하지 포트폴리오"
+title:          Hotzzi
+description:    "디자이너 윤하지"
 url:            "https://hotzzi.github.io"
 
 # Google Analytics
@@ -8,8 +8,8 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
+  name:         Hotzzi
+  url:          https://hotzzi.github.io
   email:        chesterhow@gmail.com
 
 # Build settings
